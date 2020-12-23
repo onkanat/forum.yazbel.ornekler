@@ -7,6 +7,6 @@ Forum okumaları sırasında Markdown yazı formatını ve github **READE.md** d
 ### Yapılacak İşler
 
 - [ ] Sayfa başına *logo* koy.
-- [ ] Tahmin programını github'a koy.
+- [X] Tahmin programını github'a koy.
 - [ ] Sqlite çalışma notlarını düzenle.
 - [ ] _Ağırlık hesaplama kütüphanesini düzelt._
