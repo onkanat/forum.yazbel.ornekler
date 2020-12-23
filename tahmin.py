@@ -21,13 +21,13 @@ while tahmin_hakki > 0:
         
         print("bilgiler sorgulanıyor....")
         time.sleep(1)
-        print("daha YÜKSEK bir sayi söyleyin...")
+        print("daha BÜYÜK bir sayi söyleyin...")
                         
     elif(tahmin > rastgele_sayi): # Tahmin sayıdan büyükse burası çalışır.
         
         print("bilgiler sorgulanıyor....")
         time.sleep(1)
-        print("daha DÜŞÜK bir sayi söyleyin...")             
+        print("daha KÜÇÜK bir sayi söyleyin...")             
              
     else:                               # Büyük yada Küçük değil ise burası çalışır.
         print("bilgiler sogulanıyor...")
