@@ -2,6 +2,8 @@
 
 ![Image](YazBel_logo.png)
 
+## YazBel foruma [buradan](http:\\forum.yazbel.com) ulaşabilirsiniz
+
 ## YazBel Forumda karşılaşılan sorular üzerine yapılan pratikler
 
 Forum okumaları sırasında Markdown yazı formatını ve github **READE.md** dosyasının bu formatla yazıldığını öğrendim.
