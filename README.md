@@ -4,7 +4,7 @@
 
 ## YazBel foruma [sayfalarına buradan](https://forum.yazbel.com/), ulaşabilirsiniz
 
-## YazBel Forumda karşılaşılan sorular üzerine yapılan pratikler
+## YazBel Forumda karşılaşılan sorular üzerine yapılan pratikler [^dipnot 01]
 
 Forum okumaları sırasında Markdown yazı formatını ve github **READE.md** dosyasının bu formatla yazıldığını öğrendim.
 
@@ -20,3 +20,6 @@ Forum okumaları sırasında Markdown yazı formatını ve github **READE.md** d
 print("merhaba dünya")
 print("Markdown çalışması")
 ```
+
+[^dipnot 01]: Bu depoda bulunan kodlar kamuya açık kaynaklardan temin edilmiştir.
+kod sahiplerinin herhangi bir izni yoktur. Talep halinde kaldırılabilir.
