@@ -31,3 +31,6 @@ Tüm markdown yazım kurallarını görmek için `Help`->`Markdown Reference`sek
 
 bu içerik *Typora* dan kopyalandı __Jupyter Lab__ da görünüyor
 fakat sayfa ortasında ölçeksiz  
+İşimdiye kadar en düzgün gözüken VS Code hata ayıklama ve önerileri iyi
+
+Typora Markdown öğrenildikçe pratik olacak.  
