@@ -2,7 +2,7 @@
 
 ![Image](YazBel_logo.png)
 
-## YazBel foruma (http:\\forum.yazbel.com) ulaşabilirsiniz
+## YazBel foruma [https://forum.yazbel.com/](https://forum.yazbel.com/) ulaşabilirsiniz
 
 ## YazBel Forumda karşılaşılan sorular üzerine yapılan pratikler
 
@@ -10,10 +10,11 @@ Forum okumaları sırasında Markdown yazı formatını ve github **READE.md** d
 
 ### Yapılacak İşler
 
-- [ ] Sayfa başına *logo* koy.
-- [X] Tahmin programını github'a koy.
-- [ ] Sqlite çalışma notlarını düzenle.
-- [ ] _Ağırlık hesaplama kütüphanesini düzelt._
+- [x] sayfa başina logo koy
+- [x] tahmin programını github a koy
+- [x] Markdown deneme dosyası çalış
+- [ ] sqlite örneklerini github a koy
+- [ ] Kütüphane dosyasını düzenle  
 
 ```python
 print("merhaba dünya")
