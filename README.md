@@ -2,7 +2,7 @@
 
 ![Image](YazBel_logo.png)
 
-## YazBel foruma [](http:\\forum.yazbel.com). ulaşabilirsiniz
+## YazBel foruma (http:\\forum.yazbel.com) ulaşabilirsiniz
 
 ## YazBel Forumda karşılaşılan sorular üzerine yapılan pratikler
 
