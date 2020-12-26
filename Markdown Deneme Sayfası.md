@@ -17,3 +17,16 @@ Tüm markdown yazım kurallarını görmek için `Help`->`Markdown Reference`sek
 ## Kısa Yol Tuşları
 
 `Alt+F`Dosya menüsünü `Alt+O` Biçim menüsünü çağırır. Daha fazla detay görmek için [buraya](http://support.typora.i0/Shortcut-Keys/). bakmanızı tavsiye ederim.
+
+## Tablo-1
+
+4x4 tablo denemesi  
+
+| s1       | s2       | s3       | s4       |
+| -------- | -------- | -------- | -------- |
+| içerik 1 | içerik 2 | içerik 3 | içerik 4 |
+| içerik 1.2 | içerik 2.2 | içerik 3.2 | içerik 4.2 |
+| 1.3 | 2.3 | 3.3 | 4.3 |
+| 1.4 | 2.4 | 3.4 | 4.4 |
+bu içerik *Typora* dan kopyalandı __Jupyter Lab__ da görünüyor
+fakat sayfa ortasında ölçeksiz  
