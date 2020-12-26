@@ -1,14 +1,10 @@
-## Markdown Deneme Sayfası:
-
-
+# Markdown Deneme Sayfası
 
 Bu metin ***markdown*** editörü olan ***Typora*** ile yazıldı.
 
+[TOC] burada toc var ama github da görünmüyor?
 
-
-[TOC]
-
-   ## Canlı Ön İzleme
+## Canlı Ön İzleme
 
 *Typora* canlı ön izleme yeteneğine sahiptir: ***Canlı Ön İzleme***, satır içinde yazma işiniz bittiği anda gerçekleşir.  `çerçeveye`alınmış yazı özelliği, kısayol tuşlarını `ctrl+P`göstermede oldukça başarılı.
 
@@ -20,7 +16,4 @@ Tüm markdown yazım kurallarını görmek için `Help`->`Markdown Reference`sek
 
 ## Kısa Yol Tuşları
 
-`Alt+F`Dosya menüsünü `Alt+O ` Biçim menüsünü çağırır. Daha fazla detay görmek için [buraya](http://support.typora.i0/Shortcut-Keys/). bakmanızı tavsiye ederim.
-
-
-
+`Alt+F`Dosya menüsünü `Alt+O` Biçim menüsünü çağırır. Daha fazla detay görmek için [buraya](http://support.typora.i0/Shortcut-Keys/). bakmanızı tavsiye ederim.
