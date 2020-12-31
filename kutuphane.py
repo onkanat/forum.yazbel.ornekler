@@ -14,10 +14,12 @@ import math
 
 # .......................................................
 
-
+#Sınıfın init fonksiyonuna malzeme adlı bir argüman daha ekledik.
+#Böylece aynı sütun yoğunluğuna sahip malzemeler karışmayacak.
 class f_ag:
-    def __init__(self, OzAgirlik):
+    def __init__(self, OzAgirlik, malzeme):
         self.Oz = OzAgirlik
+        self.malzeme = malzeme
 
     def yuvarlak(self, Cap, Boy): #Yuvarlak malzemenin ağırlığını hesaplar.
         agirlik = ((Cap/2)**2*math.pi*self.Oz*Boy)/1000000
@@ -118,10 +120,8 @@ class f_geo:
         return hp
 
     def dikucgen(self, karsi, komsu):
-        A = (karsi/komsu)
-        Ad = math.atan(A)
-        B = komsu/karsi
-        Bd = math.atan(B)
+        A = (karsi/komsu); Ad = math.atan(A)
+        B = komsu/karsi;   Bd = math.atan(B)
         print((math.sqrt(karsi**2+komsu**2), " Hipotenus"))
         print(("A=", math.degrees(Ad), "Derece"))
         print(("B=", math.degrees(Bd), "Derece"))
@@ -131,8 +131,7 @@ class f_geo:
 
     def dikucgenh(self, hipotenus, karsi):
         komsu = math.sqrt((hipotenus**2)-(karsi**2))
-        A = (karsi/komsu)
-        Ad = math.atan(A)
+        A = (karsi/komsu); Ad = math.atan(A)
         print((komsu, "komsu"))
         print(("A=", math.degrees(Ad), "Derece"))
         print(("tan    A=", A))
