@@ -21,7 +21,4 @@ print("merhaba dünya")
 print("Markdown çalışması")
 ```  
 
-[^dipnot 01]: Bu depoda bulunan kodlar kamuya açık kaynaklardan temin edilmiştir.
-kod sahiplerinin herhangi bir izni yoktur. Talep halinde kaldırılabilir.  
-
-[^dipnot 02]: GitHub Markdown footnote desteklemiyor muş  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/onkanat/forum.yazbel.ornekler/HEAD)
