@@ -2,7 +2,7 @@
 
    Blender için ücretsiz **render** çiftliği, kullanıcıların bilgisayar ve ekran kartlarını paylaşıma açmaları yöntemi ile çalışmakta.  
 
-![Sheepit](Sheep_it01.png)  
+![Sheepit](Sheep_it01.PNG)  
 
 https://www.sheepit-renderfarm.com/?tag=onkanat Konumundan ulaşabilirsiniz. Sizden beklentimiz yardımlarınızla hesaplama gücümüzü artırmak.  
 
