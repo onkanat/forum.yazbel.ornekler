@@ -1,7 +1,5 @@
 # Sheepit
 
-
-
    Blender için ücretsiz **render** çiftliği, kullanıcıların bilgisayar ve ekran kartlarını paylaşıma açmaları yöntemi ile çalışmakta.  
 
 ![Sheepit](Sheep_it01.png)  
