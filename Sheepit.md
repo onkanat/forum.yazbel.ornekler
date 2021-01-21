@@ -4,7 +4,7 @@
 
    Blender için ücretsiz **render** çiftliği, kullanıcıların bilgisayar ve ekran kartlarını paylaşıma açmaları yöntemi ile çalışmakta.  
 
-<img src="C:\Users\user\Documents\Python Scripts\python_doc\Sheep_it01.PNG" alt="Sheep_it01" style="zoom:75%;" />  
+![Sheepit](Sheep_it01.PNG)  
 
 https://www.sheepit-renderfarm.com/?tag=onkanat Konumundan ulaşabilirsiniz. Sizden beklentimiz yardımlarınızla hesaplama gücümüzü artırmak.  
 
