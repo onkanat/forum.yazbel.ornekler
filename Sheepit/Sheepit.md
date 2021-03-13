@@ -22,7 +22,6 @@ https://www.sheepit-renderfarm.com/?tag=onkanat Konumundan ulaşabilirsiniz. Siz
 
 - Merak ettikleriniz için.
 
-  - ~~Home Page: onkanat.onkanat~~
   - Email: hakan_kilicaslan@yahoo.com
   - Twitter: [@hakankilicasla4](http://twitter.com/hakankilicasla4)
 
