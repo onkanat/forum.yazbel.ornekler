@@ -41,6 +41,12 @@ class f_ag:
         
         return agirlik
     # çokgen malzeme için formül eklenecek
+    
+    def altikose(self,a,Boy):
+        A = 1/4*(6*a**2*math.tanh(math.pi/6)) # 6 sabiti (n) ile değiştirilerek
+        agirlik = (A*Boy)*self.Oz/1000000     #  çokgen için kullanılabilr
+        
+        return agirlik
 
 
 class f_vf:  # Kesme verisi ve işleme zamanları
